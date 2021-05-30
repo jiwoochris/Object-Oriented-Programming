@@ -67,7 +67,6 @@ public class Ex13_2 {
 			System.out.println("Problem reding the file "+outFileName);
 			System.exit(0);
 		}
-		
 
 		try {
 			try {
