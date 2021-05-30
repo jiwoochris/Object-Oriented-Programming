@@ -42,4 +42,5 @@ public class Ex13_12 {
 		System.out.println("who survived 5 years or longer : " + (double)thirdFieldOf1/numberOf1);
 		System.out.println("who died within 6 years : " + (double)thirdFieldOf2/numberOf2);
 	}
+	
 }
