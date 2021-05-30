@@ -47,5 +47,4 @@ public class Ex13_7 {
 			System.exit(0);
 		}
 	}
-
 }
