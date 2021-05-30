@@ -71,7 +71,6 @@ public class Ex13_2b {
 			System.exit(0);
 		}
 		
-		
 
 	}
 
